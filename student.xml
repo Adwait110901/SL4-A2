@@ -1,0 +1,61 @@
+
+<?xml-stylesheet type = "text/xsl" href = "student.xsl"?>
+<studclass>
+	<student>
+		<studentid>1</studentid>
+		<name>Adwait Deshpande</name>
+		<branch>CSE</branch>
+		<email>ad@gmail.com</email>
+		<mob>9765423712</mob>
+	</student>
+	<student>
+		<studentid>2</studentid>
+		<name>Meet Agrawal</name>
+		<branch>CSE</branch>
+		<email>ma@gmail.com</email>
+		<mob>9765423713</mob>
+		</student>
+		<student>
+			<studentid>3</studentid>
+			<name>Hemant Deo</name>
+			<branch>ECE</branch>
+			<email>hd@gmail.com</email>
+			<mob>9765423714</mob>
+		</student>
+		<student>
+		<studentid>4</studentid>
+			<name>Arpit Pendke</name>
+			<branch>CIV</branch>
+			<email>ap@gmail.com</email>
+			<mob>9765423714</mob>
+		</student>
+		<student>
+		<studentid>5</studentid>
+			<name>Parees Pathak</name>
+			<branch>CIV</branch>
+			<email>pp@gmail.com</email>
+			<mob>9765423755</mob>
+		</student>
+		<student>
+		<studentid>6</studentid>
+			<name>DEEP WALKE</name>
+			<branch>CSE</branch>
+			<email>dw@gmail.com</email>
+			<mob>9765423716</mob>
+		</student>
+		<student>
+		<studentid>7</studentid>
+			<name>Atharva Kathale</name>
+			<branch>CSE</branch>
+			<email>ak@gmail.com</email>
+			<mob>9765423717</mob>
+		</student>
+		<student>
+		<studentid>8</studentid>
+			<name>Sahil Purohit</name>
+			<branch>CSE</branch>
+			<email>sp@gmail.com</email>
+			<mob>9765423718</mob>
+		</student>
+	
+</studclass>
